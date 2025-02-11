@@ -1,5 +1,5 @@
 # Australia-Food-Spend-Forecast
-![](https://www.cntraveler.com/bars/sydney/marble-bar)
+![Bar](https://www.cntraveler.com/bars/sydney/marble-bar)
 
 ## 📌 Descrizione del Progetto
 Questo progetto analizza l'andamento delle spese per cene e pranzi fuori in Australia, basandosi su una serie storica mensile (\`auscafe\`) contenuta nel pacchetto **fpp2** in R. L'obiettivo è individuare trend, stagionalità e fattori che influenzano queste spese, attraverso tecniche di analisi descrittiva, decomposizione e modelli previsionali.
